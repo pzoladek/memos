@@ -38,4 +38,5 @@ out/
 
 ### Others
 .DS_Store
-docker/postgres*
+docker/postgres-data
+docker/.env
